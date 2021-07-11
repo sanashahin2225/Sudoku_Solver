@@ -1,8 +1,8 @@
-## Sudoku_Solver
+# Sudoku_Solver
 
 Sudoku puzzle solution using backtracking approach. 
 
-# Steps
+## Steps
 1. Pick Empty box ( def emptyBox(board) )
 2. Try All numbers
 3. Find one that works
